@@ -1,0 +1,12 @@
+.wrapper {
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    background: #e0dfdf;
+  }
+
+  .content {
+    width: clamp(300px, 100%, 800px);
+    height: 400px;
+    background: yellowgreen;
+  }
